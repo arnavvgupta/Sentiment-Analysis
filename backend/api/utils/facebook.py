@@ -39,8 +39,8 @@ from string import punctuation
 import nltk
 import re
 
-access_token = "EAAJr7cFEilgBO1267mkZBLZCB0XmlW1hKtmTD1wSqzL5ywlTsdfpLDWXtGPRsbTT2qTk1QT3Ef2GRciz8yKPFPZCPaSjX9qctMDG8iz55QnGX6Blp3xyxeyx1J9JqjOpwZBV107xDivxCK6Nps6ZA6tBFpRy3c9iyp52DpYIHfbW8xezTPoNkXykFsks2rTVGsvjt7EUvM0aMtFDQSsR27VEZD"
-# access_token = os.getenv("FB_ACCESS_TOKEN")
+
+access_token = os.getenv("FB_ACCESS_TOKEN")
 nltk.download("omw-1.4")
 
 
