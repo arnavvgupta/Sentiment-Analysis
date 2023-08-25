@@ -1,9 +1,8 @@
-.ytbImages{
-    width:100%;
-    
+.ytbImages {
+  width: 100%;
 }
 
-.carouselDiv{
-    width: 10vw;
-    aspect-ratio: 1 / 1;
+.carouselDiv {
+  width: 10vw;
+  aspect-ratio: 1 / 1;
 }

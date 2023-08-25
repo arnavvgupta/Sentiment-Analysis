@@ -1,8 +1,7 @@
-.floating{
-    display: flex;
+.floating {
+  display: flex;
 }
-.mainAbout{
-    margin: 0 auto;
-    width: 70%;
-    
+.mainAbout {
+  margin: 0 auto;
+  width: 70%;
 }
