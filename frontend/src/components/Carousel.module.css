@@ -3,6 +3,8 @@
 }
 
 .carouselDiv {
-  width: 10vw;
+  width: 15vw;
+  border-radius: 25px;
+  overflow: hidden;
   aspect-ratio: 1 / 1;
 }

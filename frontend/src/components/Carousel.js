@@ -1,10 +1,10 @@
 import React from "react";
 import styles from "./Carousel.module.css";
-const Carousel = () => {
+const Carousel = ({ id }) => {
   return (
     <div>
       <div
-        id="carouselExampleFade"
+        id={id}
         className={`carousel slide carousel-fade ${styles.carouselDiv}`}
         data-bs-ride="carousel"
       >
@@ -34,7 +34,7 @@ const Carousel = () => {
         <button
           className="carousel-control-prev"
           type="button"
-          data-bs-target="#carouselExampleFade"
+          data-bs-target={`#${id}`}
           data-bs-slide="prev"
         >
           <span
@@ -46,7 +46,7 @@ const Carousel = () => {
         <button
           className="carousel-control-next"
           type="button"
-          data-bs-target="#carouselExampleFade"
+          data-bs-target={`#${id}`}
           data-bs-slide="next"
         >
           <span
