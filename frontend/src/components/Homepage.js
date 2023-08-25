@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { urlAnalyse } from '../api/urlAnalyse';
 
 const Homepage = () => {
-
+    
     const [search,setSearch]=useState("");
     const [status,setStatus]=useState(0);
     const [urlData,setUrlData]=useState(null);
@@ -22,10 +22,10 @@ const Homepage = () => {
     }
     useEffect(()=>{
         console.log(search);
-        if(search.length==0) setStatus(0);
+        if(search.length===0) setStatus(0);
     },[search])
   return (
-    <div>
+    <div className='main-heading'>
         <h1>Senti-Media</h1>
 
         <input className='table-search' onChange={(e) => {setSearch(e.target.value)}} name='search' placeholder='search...' value={search} type="text" />
