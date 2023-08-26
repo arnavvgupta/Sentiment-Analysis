@@ -1,3 +1,18 @@
+.Choosemediamain{
+  background-color: #FFACAC;
+  margin: 0 auto;
+  padding: 4%;
+  width: 50%;
+  margin-top: 14%;
+  border-radius: 20px;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+}
+.mainiconformedia{
+  margin-left: 218px;
+  margin-top: 40px;
+}
+
 .card svg {
   height: 25px;
 }

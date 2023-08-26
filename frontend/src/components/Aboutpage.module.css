@@ -5,7 +5,7 @@
   align-items: center;
   width: 100%;
 
-  margin-bottom: 10rem;
+  margin-bottom: 5rem;
 }
 
 .floating h3 {
@@ -16,4 +16,13 @@
 .mainAbout {
   margin: 5rem auto;
   width: 70%;
+}
+
+.sidetexts{
+    font-size: 1.3rem;
+}
+.contentdivv{
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    color: #6d8494;
 }
