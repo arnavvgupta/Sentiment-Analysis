@@ -1,0 +1,10 @@
+.ytbImages {
+  width: 100%;
+}
+
+.carouselDiv {
+  width: 15vw;
+  border-radius: 25px;
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+}
