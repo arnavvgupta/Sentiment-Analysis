@@ -1,1 +1,12 @@
+
+.venv
+
+__pycache__
+
+.vscode
+
 .env
+
+migrations
+
+node_modules
