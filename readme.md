@@ -6,3 +6,5 @@ Please go through different branches to see the code
 
 ![SS1](https://github.com/arnavvgupta/Sentiment-Analysis/blob/main/Screenshot%202023-08-29%20at%201.04.04%20PM.png?raw=true)
 ![SS1](https://github.com/arnavvgupta/Sentiment-Analysis/blob/main/Screenshot%202023-08-29%20at%201.04.14%20PM.png?raw=true)
+
+![SS3](https://github.com/arnavvgupta/Sentiment-Analysis/blob/main/Screenshot%202023-08-29%20at%201.04.20%20PM.png?raw=true)
