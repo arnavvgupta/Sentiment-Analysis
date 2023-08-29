@@ -1,6 +1,6 @@
 # SentiMedia - Sentiment Analysis for you social media
 
-Please go through different branches to see the code
+Designed an app to fetch and analyze comments from YouTube, Instagram Reels, and Facebook. Utilized advanced algorithms to predict positive, negative, and neutral sentiment percentages, showcasing expertise in data processing and trend analysis
 
 # Screenshots of the application
 
