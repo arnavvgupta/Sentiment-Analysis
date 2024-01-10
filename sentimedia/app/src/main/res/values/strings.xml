@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sentimedia</string>
+    <string name="youtube">YouTube</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="enter_youtube_link_here">Enter YouTube link here</string>
+    <string name="analyze">Analyze</string>
+    <string name="enter_link_to_your_twitter_account_here">Enter your Twitter Account here</string>
+    <string name="analyze2">Analyze</string>
+    <string name="enter_the_link_to_your_instagram_account_here">Enter your Instagram Account here</string>
+    <string name="analyze3">Analyze</string>
+    <string name="enter_link_to_your_facebook_account_here">Enter your Facebook account here</string>
+    <string name="analyze4">Analyze</string>
+</resources>
